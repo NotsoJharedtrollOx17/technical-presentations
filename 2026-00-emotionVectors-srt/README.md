@@ -32,6 +32,22 @@ Repository: [EmotionVectorExtraction-Gemma4-GPT2](https://github.com/NotsoJhared
 
 - slidesPartialReplicationEmotionVectors.pdf
 
+## Citation
+
+```
+@misc{floresazcona2026emotionSlides,
+  author       = {Flores-Azcona, Abraham Jhared},
+  title        = {Partial Replication of Anthropic's Emotion Vectors Using Gemma 4 E2B and GPT 2 Medium Inside a Google Colab T4 Notebook},
+  year         = {2026},
+  month        = may,
+  type         = {Presentation Slides},
+  eventtitle   = {Internal Research Seminar},
+  institution  = {Samsung Research Tijuana},
+  note         = {Slides written with open source material},
+  url          = {https://github.com/NotsoJharedtrollOx17/technical-presentations/tree/main/2026-00-emotionVectors-srt}
+}
+```
+
 ## Notes
 
-- _Although an internal presentation, research materials were posted int the relevant GitHub repo 5 days prior._
+- _Although an internal presentation, research materials were posted in the relevant GitHub repo 5 days prior._
