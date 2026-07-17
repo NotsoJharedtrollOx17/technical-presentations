@@ -32,6 +32,22 @@ N/A
 
 - slidesTizenNativeAITools.pdf
 
+## Citation
+
+```
+@misc{floresazcona2025tizenAItools,
+  author       = {Flores-Azcona, Abraham Jhared},
+  title        = {Tizen Native in the Age of AI Tools},
+  year         = {2025},
+  month        = nov,
+  type         = {Presentation Slides},
+  eventtitle   = {INNOVATEC 2025},
+  institution  = {Instituto Tecnológico de Tijuana},
+  note         = {Slides are mostly written in Spanish.},
+  url          = {https://github.com/NotsoJharedtrollOx17/technical-presentations/tree/main/2025-00-tizenNative-innovatec}
+}
+```
+
 ## Notes
 
 - _Presentation done as live workshop material, therefore no Related Work section to reference._
