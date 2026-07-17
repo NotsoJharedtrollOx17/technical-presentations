@@ -33,6 +33,22 @@ Repository: [Using_ML_for_Particle_Tracking_at_LHC](https://github.com/NotsoJhar
 - ENLACE2023slides_english_AlejandroDennisAbrahamFlores.pdf
 - ENLACE2023slides_español_AlejandroDennisAbrahamFlores.pdf
 
+## Citation
+
+```
+@misc{floresdennis2023enlaceitt,
+  author       = {Flores-Azcona, Abraham Jhared and Dennis-Hernandez, Alejandro Daniel},
+  title        = {Using Machine Learning for Particle Tracking at the Large Hadron Collider},
+  year         = {2023},
+  month        = sep,
+  type         = {Presentation Slides},
+  eventtitle   = {ENLACE 2023 Simposio en Baja California},
+  institution  = {Instituto Tecnológico de Tijuana},
+  note         = {Slides offered on both English and Spanish.},
+  url          = {https://github.com/NotsoJharedtrollOx17/technical-presentations/tree/main/2023-01-enlace-itt}
+}
+```
+
 ## Notes
 
 - _Oral presentation perfomed by Abraham Jhared Flores Azcona_

@@ -31,3 +31,18 @@ Repository: [Using_ML_for_Particle_Tracking_at_LHC](https://github.com/NotsoJhar
 ## Materials
 
 - ENLACE2023posterAlejandroDennisAbrahamFlores.pdf
+
+## Citation
+
+```
+@misc{floresdennis2023enlaceposter,
+  author       = {Flores-Azcona, Abraham Jhared and Dennis-Hernandez, Alejandro Daniel},
+  title        = {Using ML for LHC Particle Tracking},
+  year         = {2023},
+  month        = aug,
+  type         = {Poster},
+  eventtitle   = {ENLACE 2023 Closing Ceremony & Research Symposium},
+  institution  = {University of California, San Diego},
+  url          = {https://github.com/NotsoJharedtrollOx17/technical-presentations/tree/main/2023-00-enlace-ucsd}
+}
+```
